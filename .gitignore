@@ -1,0 +1,12 @@
+# Large data
+data/
+*.json
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
