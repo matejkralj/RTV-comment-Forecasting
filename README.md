@@ -101,4 +101,4 @@ python main.py
 
 Kako različni atributi vplivajo na število komentarjev, ki jih prejme članek.
 
-![Moja slika](slike\Rezultati.png)
+![Moja slika](slike/Rezultati.png)
