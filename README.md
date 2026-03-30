@@ -97,7 +97,7 @@ best_model, best_params = grid_search(train_data, val_data, param_grid)
 python main.py
 ```
 
-## Rezulati
+## Rezultati
 
 Kako različni atributi vplivajo na število komentarjev, ki jih prejme članek.
 
